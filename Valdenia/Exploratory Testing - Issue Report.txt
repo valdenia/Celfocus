@@ -1,0 +1,26 @@
+Issues report
+
+Title: No feedback message is displayed when the user clicks on "Win a prize" button
+
+Steps to reproduce:
+1. Go to https://qa-automation-challenge.github.io/sandbox/#
+2. Fill all fields with the correct information
+3. Press on "Calculate" button
+4. Press on "Win a prize" button
+
+Currrent result: 
+
+	- Nothing happens, but if the user press "Win a prize" button 5 times, a message will be displayed.
+
+Expected result:
+
+	- The feedback message must be displayed on the first click action
+
+Severity: Low
+
+Additional information:
+
+	- Google Chrome browser (version 90.0)
+	- Intermittent failure (this problem occuring at least once in 5 tries)
+
+ 
